@@ -171,8 +171,8 @@ int GetCas(float Tens)
 {
 int i = 0;
   if(Tens < 2.8)
-    if(Tens < 1.2)
-        if(Tens < 0.9)
+    if(Tens < 1.1)
+        if(Tens < 0.7)
           if(Tens < 0.4)
             i = 4;
           else 
